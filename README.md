@@ -1,4 +1,4 @@
-# VYGEO2026
+# VYGEO2026 vylepšená verze
 
 toto je zkušební repozitář pro KGI/VYGEO
 
